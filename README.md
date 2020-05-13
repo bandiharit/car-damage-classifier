@@ -8,4 +8,4 @@ Created a full-fledged pilot project using deep learning and computer vision to 
 
 Recognized vehicle possibility, damage location and extent yielding validation accuracies of **87%, 70% and 65%** respectively, avoiding human bias. These can be further improved by incorporating the **on the fly data augmentation** techniques.
 
-Credit for the Dataset goes to [Ting Neo](https://github.com/neokt/car-damage-detective)'s fantastic Damage Classification project.
+Credit for the Dataset goes to Ting Neo's fantastic Damage Classification project.
