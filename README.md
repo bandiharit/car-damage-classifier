@@ -4,8 +4,8 @@ Manual estimation of damages in fields like construction, vehicular accidents ha
 
 Created a full-fledged pilot project using deep learning and computer vision to facilitate the personal automotive insurance claims process. The approach narrows down to three seperate CNN models pipelined using **Transfer Learning with VGG16 trained on Imagenet Dataset**.
 
-photo
+![](image.png)
 
-Recognized vehicle damage location and extent yielding validation accuracies of **70% and 65%** respectively, avoiding human bias. These can be further improved by incorporating the **on the fly data augmentation** techniques.
+Recognized vehicle possibility, damage location and extent yielding validation accuracies of **87%, 70% and 65%** respectively, avoiding human bias. These can be further improved by incorporating the **on the fly data augmentation** techniques.
 
 Credit for the Dataset goes to [Ting Neo](https://github.com/neokt/car-damage-detective)'s fantastic Damage Classification project.
